@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+<h3 align="center">
+Software Engineering
+</h3>
 
-You can use the [editor on GitHub](https://github.com/supersaiyane/Software_Design_Etiquettes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+****
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+🎉 Ultra-simplified explanation to Diffrent paradigms of Software development! 🎉
+</p>
+<p align="center">
+A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the <i>simplest</i> way possible.
+</p>
 
-### Markdown
+<p align="center">
+*** This Guide will hold lot many example and notes from Diffrent Creative Minds.
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+****
 
-```markdown
-Syntax highlighted code block
+## TODO
 
-# Header 1
-## Header 2
-### Header 3
+1. *Define Software Engineering*
+2. *Things to be taken care while designing - Customer Experience*
+3. *Design Principles*
+4. *Design Patterns*
+5.  *Define Codebasics*
+6.  *System Architecture*
+7.  *Architectural patterns*
+8.  *Cloud Computing Service Models*
+9.  *SDLC*
+10. *SDLC MODELS*
+11. *Software Development*
+12. *System Design Principles*
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+****
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/supersaiyane/Software_Design_Etiquettes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<footer>
+<p style="float:left; width: 20%;">
+Copyright © Gurpreet Singh, 2021
+</p>
+<p style="float:center; width: 80%; text-align:center;">
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+</p>
+</footer>
