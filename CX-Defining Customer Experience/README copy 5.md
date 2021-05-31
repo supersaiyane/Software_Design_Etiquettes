@@ -1,0 +1,42 @@
+<h3 align="center">
+Software Engineering
+</h3>
+
+****
+
+<p align="center">
+🎉 Ultra-simplified explanation to Diffrent paradigms of Software development! 🎉
+</p>
+<p align="center">
+A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the <i>simplest</i> way possible.
+</p>
+
+<p align="center">
+*** This Guide will hold lot many example and notes from Diffrent Creative Minds.
+</p>
+
+****
+
+## TODO
+1. *Things to be taken care while designing - Customer Experience*
+   1. Start with user needs
+   2. Do less
+   3. Design with data
+   4. Do the hard work to make it simple
+   5. Iterate. Then iterate again
+   6. This is for everyone
+   7. Understand context
+   8. Build digital services, not websites
+   9. Be consistent, not uniform
+   10. Make things open: it makes things better
+
+****
+
+<footer>
+<p style="float:left; width: 20%;">
+Copyright © Gurpreet Singh, 2021
+</p>
+<p style="float:center; width: 80%; text-align:center;">
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+</p>
+</footer>
