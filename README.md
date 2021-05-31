@@ -22,8 +22,8 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
 ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue)  [![Linkedin Badge](https://img.shields.io/badge/-gurpreetsingh89-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurpreetsingh89/)](https://www.linkedin.com/in/gurpreetsingh89/)  [![dev.to Badge](https://img.shields.io/badge/-@gurpreetsingh-000000?style=flat&labelColor=000000&logo=dev.to&link=https://dev.to/gurpreetsingh)](https://dev.to/gurpreetsingh) 
 
 ## TODO
-1. *Define Software Engineering*
-2. *Things to be taken care while designing - Customer Experience*
+1. [*Define Software Engineering*](https://github.com/supersaiyane/Software_Design_Etiquettes/tree/main/Architectural%20patterns)
+2. [*Things to be taken care while designing - Customer Experience*](https://github.com/supersaiyane/Software_Design_Etiquettes/tree/main/CX-Defining%20Customer%20Experience)
    1. Start with user needs
    2. Do less
    3. Design with data
@@ -34,7 +34,7 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
    8. Build digital services, not websites
    9. Be consistent, not uniform
    10. Make things open: it makes things better
-3. *Design Principles*
+3. [*Design Principles*](https://github.com/supersaiyane/Software_Design_Etiquettes/tree/main/Design%20Principles)
    1.  SOLID
        1.  Single Responsibility
            1. Cohesive
@@ -52,7 +52,7 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
        6.  Encapsulation
    3.  OOAD
    4.  META
-4. *Design Patterns*
+4. [*Design Patterns*](https://github.com/supersaiyane/Software_Design_Etiquettes/tree/main/Design%20Patterns)
    1.  Creational
        1.  Simple Factory
        2.  Factory Method
@@ -79,14 +79,14 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
        8.  Strategy
        9.  State
        10. Template Method
-5.  *Define Codebasics*
+5.  [*Define Codebasics*](https://github.com/supersaiyane/Software_Design_Etiquettes/tree/main/Code%20Basics)
     1.  Data-structures
     2.  Algorithms
-6.  *System Architecture*
+6.  [*System Architecture*](https://github.com/supersaiyane/Software_Design_Etiquettes/tree/main/System%20Architecture)
     1.  Monolith
     2.  SOA(Service Oriented Architecture)
     3.  Microservices
-7.  *Architectural patterns*
+7.  [*Architectural patterns*](https://github.com/supersaiyane/Software_Design_Etiquettes/tree/main/Architectural%20patterns)
     1.  Layered pattern
     2.  Client-server pattern
     3.  Master-slave pattern
@@ -97,12 +97,12 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
     8.  Model-view-controller pattern
     9.  Blackboard pattern
     10. Interpreter pattern
-8.  *Cloud Computing Service Models*
+8.  [*Cloud Computing Service Models*](https://github.com/supersaiyane/Software_Design_Etiquettes/tree/main/Cloud%20Computing)
     1.  On-Premise
     2.  IaaS
     3.  PaaS
     4.  SaaS
-9.  *SDLC*
+9.  [*SDLC*](https://github.com/supersaiyane/Software_Design_Etiquettes/tree/main/SDLC)
     1. Planning Stage
     2. Feasibility or Requirements Analysis Stage
     3. Design and Prototyping Stage
@@ -110,7 +110,7 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
     5. Software Testing Stage
     6. Implementation and Integration
     7. Operations and Maintenance
-10. *SDLC MODELS*
+10. [*SDLC MODELS*](https://github.com/supersaiyane/Software_Design_Etiquettes/tree/main/SDLC%20models)
     1.  Waterfall Model
     2.  RAD Model
     3.  Spiral Model
@@ -120,7 +120,7 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
     7.  Iterative Model
     8.  Big-Bang Model
     9.  Prototype Model
-11. *Software Development*
+11. [*Software Development*](https://github.com/supersaiyane/Software_Design_Etiquettes/tree/main/Software%20Development)
     1.  Application Development
         1.  Front-end
         2.  Back-end
@@ -133,7 +133,7 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
         6.  DevOps Tools
     3.  SRE
     4.  Security
-12. *System Design Principles*
+12. [*System Design Principles*](https://github.com/supersaiyane/Software_Design_Etiquettes/tree/main/System%20Design)
     1.  Performance vs scalability
     2.  Latency vs throughput
     3.  Availability vs consistency
